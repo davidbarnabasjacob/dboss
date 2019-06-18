@@ -7,10 +7,3 @@ body {
     font-weight: 400;
     src: url(../fonts/jungka-webfont.eot?) format("eot"),url(../fonts/jungka-webfont.woff2) format("woff2"),url(../fonts/jungka-webfont.woff) format("woff"),url(../fonts/jungka-webfont.ttf) format("truetype"),url('../fonts/jungka-webfont.svg#str-replace("Jungka", " ", "_")') format("svg")
 }
-@font-face {
-    font-family: "Font Awesome 5 Brands";
-    font-style: normal;
-    font-weight: 400;
-    font-display:auto;src: url(../vendors/fontawesome/webfonts/fa-brands-400.eot);
-    src: url(../vendors/fontawesome/webfonts/fa-brands-400.eot?#iefix) format("embedded-opentype"),url(../vendors/fontawesome/webfonts/fa-brands-400.woff2) format("woff2"),url(../vendors/fontawesome/webfonts/fa-brands-400.woff) format("woff"),url(../vendors/fontawesome/webfonts/fa-brands-400.ttf) format("truetype"),url(../vendors/fontawesome/webfonts/fa-brands-400.svg#fontawesome) format("svg")
-}
