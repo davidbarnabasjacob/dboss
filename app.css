@@ -1,3 +1,9 @@
 body {
     background: red;
 }
+@font-face {
+    font-family: Jungka;
+    font-style: normal;
+    font-weight: 400;
+    src: url(../fonts/jungka-webfont.eot?) format("eot"),url(../fonts/jungka-webfont.woff2) format("woff2"),url(../fonts/jungka-webfont.woff) format("woff"),url(../fonts/jungka-webfont.ttf) format("truetype"),url('../fonts/jungka-webfont.svg#str-replace("Jungka", " ", "_")') format("svg")
+}
